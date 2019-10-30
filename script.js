@@ -1,5 +1,5 @@
 
-// sätter så weblösaren uppdaterar varje sekund
+// uppdaterar varje sekund
 var timer = setInterval(klocka, 1000);
 
 function klocka(){
